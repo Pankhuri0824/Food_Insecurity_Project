@@ -1,7 +1,7 @@
 # SEVA : A case study and solution to Food Insecurity
 
 
-<b>Incase the pdf does not open directly, kindly download it or view the project on <a href="https://www.behance.net/gallery/186531429/Food-Insecurity-wicked-Problem">Behance</a></b>
+<b>Incase the pdf does not open directly, kindly download it or view the project on <a href="https://www.behance.net/gallery/187528521/Food-Insecurity-Wicked-Problem">Behance</a></b>
 
 In India, a significant food security issue persists due to uneven food availability and accessibility, driven by factors such as poverty, unequal resource distribution, and inadequate infrastructure. Due to a variety of factors, This can be classified as a "Wicked Problem" or a problem that is difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize.
 
